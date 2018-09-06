@@ -25,7 +25,7 @@
 		    	</div>
 	    	</div>
 	    	
-		<input type=SUBMIT value='Save'>
+		<input type=SUBMIT value='Generate'>
 </form>
 </div>
 

@@ -25,7 +25,7 @@ public class JokeController {
 		   
    @RequestMapping("/joke_post")
    public String joke_post() {
-	   return "";
+	   return "random";
    }
    
    @RequestMapping("/")

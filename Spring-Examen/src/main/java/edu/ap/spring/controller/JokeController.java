@@ -13,7 +13,7 @@ public class JokeController {
        
    @RequestMapping("/joke")
    public String joke() {
-	   return "";
+	   return "joke";
    }
 		   
    @RequestMapping("/joke_post")

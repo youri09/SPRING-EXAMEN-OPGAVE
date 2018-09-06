@@ -1,11 +1,11 @@
 package edu.ap.spring.jpa;
 
-import javax.persistence.Column;
+//import javax.persistence.Column;
 
 
 public class Name {
 
-	@Column
+/*	@Column
 	private String firstName;
 	
 	@Column
@@ -30,5 +30,5 @@ public class Name {
 
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
-	}
+	}*/
 }

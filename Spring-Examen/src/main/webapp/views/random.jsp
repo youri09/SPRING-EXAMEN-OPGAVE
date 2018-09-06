@@ -10,7 +10,7 @@
 <div class='well'>
 <h1>Random joke</h1>
 <br/><br/>
-
+</div>
 
 </body>
 </html>

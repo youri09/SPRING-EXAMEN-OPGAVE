@@ -1,8 +1,16 @@
 package edu.ap.spring.jpa;
 
 import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 
+@Entity
 public class Joke {
+	
+	@Id
+	@GeneratedValue
+	private Long id;
 
 	@Column
     private String joke;
